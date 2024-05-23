@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/ik.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "desktop with camera and laptop";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "JS Project (Integrating REST API)",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      " This project demonstrates the power of JavaScript by integrating with a REST API. It explores how to fetch, manipulate, and potentially send data to an external API.",
+    url: "https://github.com/Arpitakaushal/project3",
   },
   {
-    title: "Web Development for Beginners",
+    title: "JavaScript Registration Form",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Create a seamless registration experience with this JavaScript-powered form. Validate user input and ensure your data remains secure",
+    url: "https://github.com/Arpitakaushal/3-hour-js-project",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://github.com/Arpitakaushal/build-resume",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Simple and Slick Calculator",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      " This project is a web-based calculator built with HTML, CSS, and JavaScript. It provides a user-friendly interface for performing basic arithmetic operations like addition, subtraction, multiplication, and division.",
+    url: "https://github.com/Arpitakaushal/calcultor/tree/main",
   },
 ];
 
